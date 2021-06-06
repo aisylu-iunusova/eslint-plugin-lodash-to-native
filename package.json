@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-lodash-to-native",
+  "version": "1.0.0",
+  "description": "Suggests using the native Array#map function instead of _.map",
+  "main": "index.js",
+  "author": "Aisylu",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "mocha": "^8.4.0"
+  }
+}
